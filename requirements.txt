@@ -1,0 +1,11 @@
+openai
+langchain
+msal
+pandas
+python-dotenv
+requests
+openpyxl
+faiss-cpu
+tqdm
+langchain_community
+langchain_openai
